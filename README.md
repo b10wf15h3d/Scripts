@@ -1,2 +1,2 @@
 # Scipts
-Collection Of Scripts
+Collection of scripts written for OSCP course.
